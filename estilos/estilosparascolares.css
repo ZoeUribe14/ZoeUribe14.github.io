@@ -1,0 +1,19 @@
+#titulo{
+    text-align: center;
+    color: cornflowerblue;
+    font-family: monospace;
+    font-size: 50px;
+}
+.sub{
+    text-align: left;
+    color:darkblue;
+    font-size: 29px;
+}
+.textos{
+    text-align: left;
+    font-size: 25px
+}
+#imagen{
+    display: inline-block;
+    float: right;
+}

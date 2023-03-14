@@ -1,0 +1,25 @@
+#cuadro{
+    margin: 2% 2%;
+    column-count: 2;
+    column-gap: 4%;
+}
+#titulo{
+    text-align: center;
+    color: cornflowerblue;
+    font-family: monospace;
+    font-size: 50px;
+}
+.subtitulos{
+    text-align: center;
+    font-size: 40px;
+}
+.text{
+    text-align: justify;
+    font-size: 20px;
+}
+#imagen{
+    float:left;
+}
+#imagen2{
+    float: right;
+}

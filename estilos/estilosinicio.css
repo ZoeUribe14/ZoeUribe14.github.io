@@ -1,0 +1,32 @@
+#titulo{
+    font-size:25px ;
+    color:cornflowerblue;
+    font-family: monospace;
+    text-align: center;
+}
+.texto{
+    font-size: 30px;
+    text-align: center;
+}
+#foto1{
+    float: left;
+}
+#foto2{
+    float: right;
+}
+.textos{
+    font-size: 25px;
+    color:darkblue;
+}
+.text{
+    font-size: 25px;
+    color: darkblue;
+    text-align: right;
+}
+#subt{
+    text-align: right;
+    font-size: 30px;
+}
+#foto3{
+    float: left;
+}

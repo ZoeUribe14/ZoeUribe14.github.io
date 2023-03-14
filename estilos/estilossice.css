@@ -1,0 +1,17 @@
+#titulo{
+    display: inline-block;
+    text-align: center;
+    width: 50%;
+    font-size: 30px;
+    color:cornflowerblue;
+    font-family:monospace;
+}
+#imagenes img{
+    display: inline-block;
+    width: 10%;
+    float: right;
+}
+.textos{
+    text-align: left;
+    font-size: 20px;
+}

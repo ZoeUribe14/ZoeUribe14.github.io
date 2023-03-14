@@ -1,0 +1,21 @@
+#titulo{
+    display: inline-block;
+    text-align: center;
+    width: 60%;
+    font-size: 30px;
+    color: cornflowerblue;
+    font-family: monospace;
+}
+.imagen1{
+   column-count: 0;
+    width: 100vw;
+        float:center;
+}
+.texto1{
+    text-align: justify;
+    color:brown;
+    font-size: 29px
+}
+.texto{
+    font-size: 25px;
+}
